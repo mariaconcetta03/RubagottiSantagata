@@ -28,7 +28,6 @@ For major clarity, the history of all commits is included in the file DD_commit_
 
 - **Andrea Rubagotti**
 - **Maria Concetta Santagata**
-- **Samuele Leanza**
 
 ---
 
